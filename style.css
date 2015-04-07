@@ -1,0 +1,46 @@
+#searchImg{
+	width: 300px;
+	border: 2px solid transparent;
+	margin-left: 10px;
+	margin-right: 10px;
+	height: 250px;
+	cursor: pointer;
+	border-radius: 8px;
+}
+#name{
+	font-size: 80px;
+	text-align: center;
+	color: #6A5ACD;
+	padding: 20px;
+	background-color:#8B475D;
+	border: 2px solid transparent;
+	border-radius: 6px;
+}
+#logo{
+	margin-top: -50px;
+}
+body{
+	background-color: #EEA2AD;	
+	font-family: cursive;
+}
+#submit{
+	margin-top: 2px;
+	margin-bottom: 6px
+}
+#text{
+	text-align: center;
+	font-size: 30px;
+}
+#tag{
+	border:1px solid blue;
+	height:30px;
+	width:300px;
+	display: inline;
+}
+#search{
+	font-size: 30px;
+	margin-bottom: -3px;
+}
+#area{
+	margin: 0 auto;
+}
